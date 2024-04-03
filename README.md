@@ -1,1 +1,1 @@
-# GenAi
+# Flower Recognition Using CNN
